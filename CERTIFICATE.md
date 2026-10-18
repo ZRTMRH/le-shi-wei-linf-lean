@@ -271,8 +271,8 @@ Each Lean definition is in `LinfPermRemoval/Basic.lean`, `Section3.lean` or `Geo
   formalization, separate Claude instances (each given a single criterion and no access to the
   others' reviews) compared every Lean statement with the paper in both directions, and all 67
   passed. These reviewers are instances of the same AI model that wrote the code, so they are not
-  independent in the way a human referee is. The authors of the paper have read this certificate;
-  no mathematician has signed a formal statement-by-statement check of it.
+  independent in the way a human referee is. The authors of the paper have read and approved this
+  certificate.
   Sections 1a, 3 and 4 are written so that a mathematician can check the main statements against
   the paper without knowing Lean.
 - **Differences from the paper that a reader should know.** Each is a convention or a formal
