@@ -302,7 +302,7 @@ Each Lean definition is in `LinfPermRemoval/Basic.lean`, `Section3.lean` or `Geo
 ## 6. How this formalization was produced
 
 The Lean code was written by Claude (Anthropic's AI model), running in Claude Code, under an
-autoformalization and auditing workflow designed and directed by Daniel Zhou. Separate Claude
+autoformalization and auditing workflow designed and directed by Runtian Zhou. Separate Claude
 instances, each given one criterion and no access to the others' reviews, audited the Lean
 statements against the paper and the proofs for substance (see section 5 for what this does and
 does not establish). The formalization builds on Lean's Mathlib library.
