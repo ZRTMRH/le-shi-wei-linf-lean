@@ -23,3 +23,7 @@ lake env lean Certificate.lean
 ```
 
 Lean `v4.35.0`, Mathlib `fcd79238d34137c492bb55aef27aba0916e0a36f`.
+
+## License
+
+Released under the [Apache License 2.0](LICENSE), the license of Mathlib.
